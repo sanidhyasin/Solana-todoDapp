@@ -17,7 +17,7 @@ let dummyTodos = [
             content: 'Finish the essay collaboration',
             marked: false,
         }
-
+ 
     },
     {
         account:{
